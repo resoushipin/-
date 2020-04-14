@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+    xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+       http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd"
+	xmlns:mobile="http://www.baidu.com/schemas/sitemap-mobile/1/"
+>
+
+<url>
+ <loc>http://v.resoumen.com</loc>
+ <mobile:mobile type="htmladapt" />
+ <priority>0.5</priority>
+ <lastmod>2020-04-01</lastmod>
+ <changefreq>daily</changefreq>
+</url>
+
+<url>
+ <loc>http://v.resoumen.com/vip.html</loc>
+ <mobile:mobile type="htmladapt" />
+ <priority>0.5</priority>
+ <lastmod>2020-04-01</lastmod>
+ <changefreq>daily</changefreq>
+</url>
+
+<url>
+ <loc>http://v.resoumen.com/rssp.rar</loc>
+ <mobile:mobile type="htmladapt" />
+ <priority>0.5</priority>
+ <lastmod>2020-04-01</lastmod>
+ <changefreq>daily</changefreq>
+</url>
+
+<url>
+ <loc>http://v.resoumen.com/v.html</loc>
+ <mobile:mobile type="htmladapt" />
+ <priority>1.0</priority>
+ <lastmod>2020-04-01</lastmod>
+ <changefreq>always</changefreq>
+</url>
+
+<url>
+ <loc>http://v.resoumen.com/youku.html</loc>
+ <mobile:mobile type="htmladapt" />
+ <priority>0.5</priority>
+ <lastmod>2020-04-01</lastmod>
+ <changefreq>daily</changefreq>
+</url>
+
+<url>
+ <loc>http://v.resoumen.com/iqiyi.html</loc>
+ <mobile:mobile type="htmladapt" />
+ <priority>0.5</priority>
+ <lastmod>2020-04-01</lastmod>
+ <changefreq>daily</changefreq>
+</url>
+
+<url>
+ <loc>http://v.resoumen.com/vqq.html</loc>
+ <mobile:mobile type="htmladapt" />
+ <priority>0.5</priority>
+ <lastmod>2020-04-01</lastmod>
+ <changefreq>daily</changefreq>
+</url>
+
+</urlset>
